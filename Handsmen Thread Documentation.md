@@ -612,10 +612,10 @@ This project provided hands-on experience with:
 
 ## Contact Information
 
-**Student:** M.J. Tuplano  
+**Student:** MJ Tuplano  
 **Project:** HandsMen Threads Capstone  
 **Platform:** Salesforce  
-**Submission Date:** November 2025
+**Submission Date:** November 28, 2025
 
 ---
 
